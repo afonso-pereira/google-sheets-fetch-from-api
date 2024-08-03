@@ -1,5 +1,5 @@
 # Google Sheets API Data Importer
-<div style="display: flex; width: 100%; max-height: 35vw;">
+<div style="display: flex; width: 100%; max-height: 5vw;">
   <img src="https://github.com/user-attachments/assets/22decd01-19f2-45b6-bea6-aeee98ae338a" alt="Google App Scripts Logo" style="max-width: 35%; height: auto;">
   <img src="https://github.com/user-attachments/assets/ab5a2694-569b-430a-90ed-86b90555e341" alt="Google Sheets Logo" style="max-width: 35%; height: auto;">
 </div>
