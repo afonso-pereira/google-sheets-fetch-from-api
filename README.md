@@ -1,4 +1,6 @@
 # Google Sheets API Data Importer
+![1627301429603](https://github.com/user-attachments/assets/8190a6e5-6f79-4e51-bd68-03e845e55980)
+
 
 This Google Apps Script project automatically imports data from an API into a specified Google Sheet, handling header discrepancies and ensuring data integrity.
 
