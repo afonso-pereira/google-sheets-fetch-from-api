@@ -4,7 +4,7 @@
     <img src="https://github.com/user-attachments/assets/8190a6e5-6f79-4e51-bd68-03e845e55980" alt="Google App Scripts Logo" style="height: 100%;">
   </div>
   <div style="flex: 1;">
-    <img src="https://github.com/user-attachments/assets/d7f71bca-a51a-473e-934d-c2d0d7bcaa69" alt="Google Sheets Logo" style="height: 80%;">
+    <img src="https://github.com/user-attachments/assets/d7f71bca-a51a-473e-934d-c2d0d7bcaa69" alt="Google Sheets Logo" style="height: 60%;">
   </div>
 </div>
 
