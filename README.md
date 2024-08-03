@@ -1,11 +1,7 @@
 # Google Sheets API Data Importer
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <img src="https://github.com/user-attachments/assets/8190a6e5-6f79-4e51-bd68-03e845e55980" alt="Google App Scripts Logo" style="height: 100%;">
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github.com/user-attachments/assets/d7f71bca-a51a-473e-934d-c2d0d7bcaa69" alt="Google Sheets Logo" style="height: 60%;">
-  </div>
+<div style="display: flex; width: 100%; max-height: 35vw;">
+  <img src="https://github.com/user-attachments/assets/39257bc3-38a2-4ffd-b230-aac9ad88652" alt="Google App Scripts Logo" style="max-width: 35%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/ab5a2694-569b-430a-90ed-86b90555e341" alt="Google Sheets Logo" style="max-width: 35%; height: auto;">
 </div>
 
 This Google Apps Script project automatically imports data from an API into a specified Google Sheet, handling header discrepancies and ensuring data integrity.
